@@ -1,0 +1,91 @@
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\bin\Debug\Lab_13.exe.config
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\bin\Debug\Lab_13.exe
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\bin\Debug\Lab_13.pdb
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.csprojAssemblyReference.cache
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.Properties.Resources.resources
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.GenerateResource.cache
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.CoreCompileInputs.cache
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.exe
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.pdb
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\bin\Debug\EntityFramework.dll
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\bin\Debug\EntityFramework.xml
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.frmUser.resources
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.CopyComplete
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.frmSearchUser.resources
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.frmPC.resources
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.frmTask.resources
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\bin\Debug\Guna.UI2.dll
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.frmLogin.resources
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.formMain.resources
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.frmRecent.resources
+D:\C#\New folder\WINDOW\Lab_13\Lab_13\obj\Debug\Lab_13.frmAppInfo.resources
+D:\winform\Lab_13\Lab_13\Lab_13\bin\Debug\Lab_13.exe.config
+D:\winform\Lab_13\Lab_13\Lab_13\bin\Debug\Lab_13.exe
+D:\winform\Lab_13\Lab_13\Lab_13\bin\Debug\Lab_13.pdb
+D:\winform\Lab_13\Lab_13\Lab_13\bin\Debug\EntityFramework.dll
+D:\winform\Lab_13\Lab_13\Lab_13\bin\Debug\EntityFramework.SqlServer.dll
+D:\winform\Lab_13\Lab_13\Lab_13\bin\Debug\Guna.UI2.dll
+D:\winform\Lab_13\Lab_13\Lab_13\bin\Debug\EntityFramework.xml
+D:\winform\Lab_13\Lab_13\Lab_13\bin\Debug\EntityFramework.SqlServer.xml
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.csprojAssemblyReference.cache
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.formMain.resources
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmAppInfo.resources
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmLogin.resources
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmPC.resources
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmRecent.resources
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmSearchUser.resources
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmTask.resources
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmUser.resources
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.Properties.Resources.resources
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.GenerateResource.cache
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.CoreCompileInputs.cache
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.CopyComplete
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.exe
+D:\winform\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.pdb
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\bin\Debug\Lab_13.exe.config
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\bin\Debug\Lab_13.exe
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\bin\Debug\Lab_13.pdb
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\bin\Debug\EntityFramework.dll
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\bin\Debug\Guna.UI2.dll
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\bin\Debug\EntityFramework.xml
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.csprojAssemblyReference.cache
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.formMain.resources
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmAppInfo.resources
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmLogin.resources
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmPC.resources
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmRecent.resources
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmSearchUser.resources
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmTask.resources
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.frmUser.resources
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.Properties.Resources.resources
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.GenerateResource.cache
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.CopyComplete
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.exe
+C:\Users\hoang\Desktop\Lab_13\Lab_13\Lab_13\Lab_13\obj\Debug\Lab_13.pdb
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\bin\Debug\Lab_13.exe.config
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\bin\Debug\Lab_13.exe
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\bin\Debug\Lab_13.pdb
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\bin\Debug\EntityFramework.dll
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\bin\Debug\Guna.UI2.dll
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\bin\Debug\EntityFramework.xml
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.csprojAssemblyReference.cache
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.formMain.resources
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.frmAppInfo.resources
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.frmLogin.resources
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.frmPC.resources
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.frmRecent.resources
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.frmSearchUser.resources
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.frmTask.resources
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.frmUser.resources
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.Properties.Resources.resources
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.GenerateResource.cache
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.CoreCompileInputs.cache
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.CopyComplete
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.exe
+D:\C#\New folder\WINDOW\Lab_13_2\Lab_13\Lab_13\obj\Debug\Lab_13.pdb
